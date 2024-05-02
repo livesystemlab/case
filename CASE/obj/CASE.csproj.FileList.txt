@@ -1,0 +1,9 @@
+obj\x86\Debug\CASE.exe
+obj\x86\Debug\CASE.pdb
+bin\x86\Debug\CASE.exe
+bin\x86\Debug\CASE.pdb
+bin\x86\Debug\MySQLDriverCS.dll
+obj\x86\Debug\ResolveAssemblyReference.cache
+obj\x86\Debug\case.Form1.resources
+obj\x86\Debug\case.Properties.Resources.resources
+obj\x86\Debug\CASE.csproj.GenerateResource.Cache
